@@ -9,5 +9,5 @@ setup(
     url='http://simplecv.org',
     author='Ingenuitas',
     author_email='public.relations@ingenuitas.com',
-    packages=['zxing'],
+    packages=[],
 )
